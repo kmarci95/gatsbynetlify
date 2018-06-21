@@ -30,5 +30,5 @@ module.exports = {
     },
     'gatsby-transformer-remark'
   ],
-  pathPrefix: "/gatsby"
+  pathPrefix: "/gatsbypro"
 };
