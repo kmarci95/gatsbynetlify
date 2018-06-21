@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db68e33c-5277-4bec-a097-1bf2ebb3ef55" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" afterPath="$PROJECT_DIR$/gatsby-config.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -325,12 +323,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529497771246</updated>
       <workItem from="1529497774585" duration="7225000" />
-      <workItem from="1529572640357" duration="8910000" />
+      <workItem from="1529572640357" duration="9128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16135000" />
+    <option name="totallyTimeSpent" value="16353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="22" width="1908" height="1002" extended-state="0" />
