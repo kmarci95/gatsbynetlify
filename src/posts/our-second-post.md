@@ -1,7 +1,9 @@
 ---
-title: "This is our second blog post"
-date: "2018-03-21"
+title: This is our second blog post
+image: /static/assets/képernyőfotó-2018-06-25-16.20.55.png
+undefined: '2018-06-06'
 ---
+![media](/static/assets/képernyőfotó-2018-06-25-16.20.55.png)
 
 ## Hello
 
