@@ -28,6 +28,13 @@ module.exports = {
         excerpt_separator: `<!-- end -->`
       }
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "img",
+        path: `${__dirname}/static/assets`
+      }
+    },
     'gatsby-transformer-remark',
     'gatsby-plugin-netlify-cms'
   ],
