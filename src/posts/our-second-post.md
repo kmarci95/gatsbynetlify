@@ -1,9 +1,9 @@
 ---
 title: This is our second blog post
-image: /static/assets/képernyőfotó-2018-06-25-16.20.55.png
-date: '2018-06-06'
+image: /assets/screen.png
+undefined: '2018-06-06'
 ---
-![media](/assets/screen.png)
+![screen](/assets/screen.png)
 
 ## Hello
 
