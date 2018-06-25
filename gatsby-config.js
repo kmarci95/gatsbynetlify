@@ -28,7 +28,8 @@ module.exports = {
         excerpt_separator: `<!-- end -->`
       }
     },
-    'gatsby-transformer-remark'
+    'gatsby-transformer-remark',
+    'gatsby-plugin-netlify-cms'
   ],
 };
 
