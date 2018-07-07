@@ -17,19 +17,19 @@ export const query = graphql`
         desc
       }
     }
-    allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           id
           frontmatter {
             title
-            date(formatString: "DD  MM YYYY")
+            date(formatString: "MMMM DD YYYY")
           }
-          html
-          excerpt
           fields {
             slug
           }
+          html
+          excerpt
         }
       }
     }
