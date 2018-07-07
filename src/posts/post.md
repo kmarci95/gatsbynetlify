@@ -1,7 +1,9 @@
 ---
-title: "Level Up Pro Gatsby"
-date: "2018-02-21"
+title: Level Up Pro Gatsby
+image: /assets/screen.png
+undefined: '2018-05-09'
 ---
+![asd](/assets/screen.png)
 
 ## Hello
 
@@ -13,4 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquam dolor
 * Formatted
 
 <!-- end -->
+
 culpa deleniti eos fugiat hic magnam modi quas quo! Aliquid enim est, harum odio reprehenderit soluta voluptas. Cumque excepturi harum illo quas qui quidem. Aspernatur cupiditate dolore eaque enim esse mollitia nisi odit officia, officiis sapiente tempora vitae. Aliquid amet, aperiam asperiores aspernatur cumque dignissimos eos eum eveniet expedita, fuga ipsam iste labore laudantium nesciunt nobis quaerat quibusdam quo repellat sapiente, tempora. Accusamus autem ducimus ipsam ipsum obcaecati, saepe vitae? Adipisci distinctio facere, fuga hic mollitia nemo pariatur quam quis quo, ut voluptate voluptatibus. Dolorum eius hic possimus quo ratione totam veniam? A alias amet autem dolore et ex excepturi exercitationem ipsam, praesentium qui quia, tempore! Accusamus deleniti facilis odio totam!
